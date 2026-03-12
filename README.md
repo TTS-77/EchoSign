@@ -1,5 +1,3 @@
-# EchoSign
-Hackathon Project 
 # 🤟 EchoSign – Sign Language Recognition & Text-to-Sign System
 
 EchoSign is an AI-powered accessibility project designed to break communication barriers between sign language users and non-signers.
